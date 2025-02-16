@@ -1,0 +1,7 @@
+## Interface: 100000
+## Title: Toggle Names
+## Notes: Toggles the names on and off for making screenshots. /togglenames
+## Author: Aberidius
+## Version: 1.0
+
+ToggleNamesAddon.lua
